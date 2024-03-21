@@ -2,3 +2,5 @@ tensorflow==2.12.0
 matplotlib==3.7.1
 pyyaml==6.0
 dvc[gs]==3.47.0
+bentoml==1.2.2
+pillow==10.2.0
